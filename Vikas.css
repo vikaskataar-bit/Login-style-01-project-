@@ -70,16 +70,6 @@ input:hover{
    border-color:green;
    font-size:14px;
 }
-.dark .container{
-background:#1e1e1e;
-color:white;
-}
-.dark input{
-background:#333;
-color:white;
-border:1px solid #555;
-}
-
 .dark input::placeholder{
 color:white;
 opacity:0.8;
