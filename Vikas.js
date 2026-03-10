@@ -24,3 +24,6 @@ let dark = false; // initially light mode
         function createnewaccount() {
             alert("✅Creating New Account!");
         }
+function darkmode() {
+  document.body.classList.toggle("dark");
+}
